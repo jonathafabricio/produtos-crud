@@ -1,8 +1,6 @@
 // next.config.mjs
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    basePath: '/produtos-crud',
-  };
+const nextConfig = {};
   
   export default nextConfig;
   
